@@ -1,1 +1,1 @@
-# Cram-r-Lundberg-model-with-Hawkes-process
+# Cramér Lundberg model with Hawkes process
